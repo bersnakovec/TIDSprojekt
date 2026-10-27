@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Sample personal collection entered by the user -->
+<collection owner="lenart">
+  <item id="K01" cardId="C22">
+    <variant>Normal</variant>
+    <quantity>6</quantity>
+    <condition>Near Mint</condition>
+    <acquiredDate>2025-11-01</acquiredDate>
+  </item>
+  <item id="K02" cardId="C19">
+    <variant>Foil</variant>
+    <quantity>1</quantity>
+    <condition>Near Mint</condition>
+    <acquiredDate>2025-11-08</acquiredDate>
+    <purchasePriceUsd>2.50</purchasePriceUsd>
+    <note>prvi turnir</note>
+  </item>
+  <item id="K03" cardId="C21">
+    <variant>Normal</variant>
+    <quantity>2</quantity>
+    <condition>Near Mint</condition>
+    <acquiredDate>2026-02-20</acquiredDate>
+    <purchasePriceUsd>3.00</purchasePriceUsd>
+  </item>
+  <item id="K04" cardId="C25">
+    <variant>Normal</variant>
+    <quantity>2</quantity>
+    <condition>Lightly Played</condition>
+    <acquiredDate>2026-02-20</acquiredDate>
+  </item>
+  <item id="K05" cardId="C23">
+    <variant>Foil</variant>
+    <quantity>1</quantity>
+    <condition>Near Mint</condition>
+    <acquiredDate>2026-03-01</acquiredDate>
+    <purchasePriceUsd>15.00</purchasePriceUsd>
+  </item>
+  <item id="K06" cardId="C05">
+    <variant>Normal</variant>
+    <quantity>3</quantity>
+    <condition>Near Mint</condition>
+    <acquiredDate>2026-05-09</acquiredDate>
+    <purchasePriceUsd>0.10</purchasePriceUsd>
+    <note>iz prvega boosterja</note>
+  </item>
+  <item id="K07" cardId="C06">
+    <variant>Normal</variant>
+    <quantity>2</quantity>
+    <condition>Near Mint</condition>
+    <acquiredDate>2026-05-09</acquiredDate>
+  </item>
+  <item id="K08" cardId="C07">
+    <variant>Foil</variant>
+    <quantity>1</quantity>
+    <condition>Lightly Played</condition>
+    <acquiredDate>2026-05-23</acquiredDate>
+    <purchasePriceUsd>4.00</purchasePriceUsd>
+  </item>
+  <item id="K09" cardId="C08">
+    <variant>Normal</variant>
+    <quantity>3</quantity>
+    <condition>Near Mint</condition>
+    <acquiredDate>2026-06-02</acquiredDate>
+    <purchasePriceUsd>0.15</purchasePriceUsd>
+  </item>
+  <item id="K10" cardId="C09">
+    <variant>Foil</variant>
+    <quantity>1</quantity>
+    <condition>Near Mint</condition>
+    <acquiredDate>2026-06-14</acquiredDate>
+    <purchasePriceUsd>6.50</purchasePriceUsd>
+    <note>menjava na turnirju</note>
+  </item>
+  <item id="K11" cardId="C02">
+    <variant>Foil</variant>
+    <quantity>2</quantity>
+    <condition>Near Mint</condition>
+    <acquiredDate>2026-06-14</acquiredDate>
+    <purchasePriceUsd>2.80</purchasePriceUsd>
+  </item>
+  <item id="K12" cardId="C11">
+    <variant>Foil</variant>
+    <quantity>1</quantity>
+    <condition>Near Mint</condition>
+    <acquiredDate></acquiredDate>
+    <note>datum nakupa ni znan</note>
+  </item>
+  <item id="K13" cardId="C12">
+    <variant>Normal</variant>
+    <quantity>1</quantity>
+    <condition>Moderately Played</condition>
+    <acquiredDate>2026-07-01</acquiredDate>
+  </item>
+  <item id="K14" cardId="C13">
+    <variant>Normal</variant>
+    <quantity>3</quantity>
+    <condition>Near Mint</condition>
+    <acquiredDate>2026-07-18</acquiredDate>
+    <purchasePriceUsd>0.40</purchasePriceUsd>
+  </item>
+  <item id="K15" cardId="C04">
+    <variant>Foil</variant>
+    <quantity>1</quantity>
+    <condition>Near Mint</condition>
+    <acquiredDate>2026-08-05</acquiredDate>
+    <purchasePriceUsd>75.00</purchasePriceUsd>
+    <note>pull iz booster boxa</note>
+  </item>
+  <item id="K16" cardId="C16">
+    <variant>Foil</variant>
+    <quantity>2</quantity>
+    <condition>Near Mint</condition>
+    <acquiredDate>2026-08-22</acquiredDate>
+    <purchasePriceUsd>0.90</purchasePriceUsd>
+  </item>
+  <item id="K17" cardId="C17">
+    <variant>Foil</variant>
+    <quantity>1</quantity>
+    <condition>Lightly Played</condition>
+    <acquiredDate>2026-09-10</acquiredDate>
+    <purchasePriceUsd>1.50</purchasePriceUsd>
+  </item>
+  <item id="K18" cardId="C05">
+    <variant>Foil</variant>
+    <quantity>1</quantity>
+    <condition>Near Mint</condition>
+    <acquiredDate>2026-09-27</acquiredDate>
+    <purchasePriceUsd>0.30</purchasePriceUsd>
+  </item>
+  <item id="K19" cardId="C10">
+    <variant>Foil</variant>
+    <quantity>1</quantity>
+    <condition>Near Mint</condition>
+    <acquiredDate>2026-10-12</acquiredDate>
+    <purchasePriceUsd>5.20</purchasePriceUsd>
+    <note>za Order deck</note>
+  </item>
+</collection>

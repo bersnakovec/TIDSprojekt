@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filteredCards count="15" generatedAt="2026-10-27T00:42:14" totalCollectionValueUsd="121.18">
+  <filter>
+    <criterion name="owned">true</criterion>
+    <criterion name="acquired-after">2026-01-01</criterion>
+  </filter>
+  <card id="C04" riftcodexId="69c4407d9288b1e85d94de9f" tcgplayerId="685602">
+    <name>Jhin - Virtuoso (Overnumbered)</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>226</collectorNumber>
+    <type>Legend</type>
+    <rarity>Rare</rarity>
+    <domains>
+      <domain>Fury</domain>
+      <domain>Mind</domain>
+    </domains>
+    <energy/>
+    <might/>
+    <text>When you play a spell, if you spent :rb_energy_4: or more, you may banish it. Then, if there are four spells banished with me, put each in its trash, channel 4 runes, and draw 1.</text>
+    <prices currency="USD">
+      <price date="2026-10-26" id="P04" variant="Foil">
+        <lowPrice>54</lowPrice>
+        <midPrice>72.02</midPrice>
+        <highPrice>600</highPrice>
+        <marketPrice>68.23</marketPrice>
+      </price>
+    </prices>
+    <collection quantity="1" valueUsd="68.23">
+      <item id="K15">
+        <variant>Foil</variant>
+        <quantity>1</quantity>
+        <condition>Near Mint</condition>
+        <acquiredDate>2026-08-05</acquiredDate>
+        <purchasePriceUsd>75</purchasePriceUsd>
+        <note>pull iz booster boxa</note>
+      </item>
+    </collection>
+  </card>
+  <card id="C23" riftcodexId="69bc5be5d308c64675ca8901" tcgplayerId="666812">
+    <name>Arise!</name>
+    <set code="SFD">Spiritforged</set>
+    <collectorNumber>198</collectorNumber>
+    <type>Spell</type>
+    <rarity>Epic</rarity>
+    <domains>
+      <domain>Calm</domain>
+      <domain>Order</domain>
+    </domains>
+    <energy>6</energy>
+    <might/>
+    <text>Play a 2 :rb_might: Sand Soldier unit token for each Equipment you control. Then ready two of them.</text>
+    <prices currency="USD">
+      <price date="2026-10-26" id="P32" variant="Foil">
+        <lowPrice>15.14</lowPrice>
+        <midPrice>20.99</midPrice>
+        <highPrice>515.07</highPrice>
+        <marketPrice>17.69</marketPrice>
+      </price>
+    </prices>
+    <collection quantity="1" valueUsd="17.69">
+      <item id="K05">
+        <variant>Foil</variant>
+        <quantity>1</quantity>
+        <condition>Near Mint</condition>
+        <acquiredDate>2026-03-01</acquiredDate>
+        <purchasePriceUsd>15</purchasePriceUsd>
+        <note/>
+      </item>
+    </collection>
+  </card>
+  <card id="C21" riftcodexId="69bc5bd3d308c64675ca87ad" tcgplayerId="653018">
+    <name>Salvage</name>
+    <set code="OGN">Origins</set>
+    <collectorNumber>224</collectorNumber>
+    <type>Spell</type>
+    <rarity>Uncommon</rarity>
+    <domains>
+      <domain>Order</domain>
+    </domains>
+    <energy>2</energy>
+    <might/>
+    <text>[Action] (Play on your turn or in showdowns.)You may kill a gear. Draw 1.</text>
+    <prices currency="USD">
+      <price date="2026-10-26" id="P28" variant="Foil">
+        <lowPrice>5.85</lowPrice>
+        <midPrice>7.71</midPrice>
+        <highPrice>15</highPrice>
+        <marketPrice>7.37</marketPrice>
+      </price>
+      <price date="2026-10-26" id="P29" variant="Normal">
+        <lowPrice>2.67</lowPrice>
+        <midPrice>4.49</midPrice>
+        <highPrice>504.87</highPrice>
+        <marketPrice>3.36</marketPrice>
+      </price>
+    </prices>
+    <collection quantity="2" valueUsd="6.72">
+      <item id="K03">
+        <variant>Normal</variant>
+        <quantity>2</quantity>
+        <condition>Near Mint</condition>
+        <acquiredDate>2026-02-20</acquiredDate>
+        <purchasePriceUsd>3</purchasePriceUsd>
+        <note/>
+      </item>
+    </collection>
+  </card>
+  <card id="C02" riftcodexId="69c4407d9288b1e85d94de98" tcgplayerId="685595">
+    <name>Vi - Peacekeeper</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>176</collectorNumber>
+    <type>Unit</type>
+    <rarity>Rare</rarity>
+    <domains>
+      <domain>Order</domain>
+    </domains>
+    <energy>5</energy>
+    <might>5</might>
+    <text>[Ambush] (You may play me as a [Reaction] to a battlefield where you have units.)When I attack, [Stun] an enemy unit here. (It doesn't deal combat damage this turn.)</text>
+    <prices currency="USD">
+      <price date="2026-10-26" id="P02" variant="Foil">
+        <lowPrice>2.35</lowPrice>
+        <midPrice>3.95</midPrice>
+        <highPrice>11</highPrice>
+        <marketPrice>3.06</marketPrice>
+      </price>
+    </prices>
+    <collection quantity="2" valueUsd="6.12">
+      <item id="K11">
+        <variant>Foil</variant>
+        <quantity>2</quantity>
+        <condition>Near Mint</condition>
+        <acquiredDate>2026-06-14</acquiredDate>
+        <purchasePriceUsd>2.8</purchasePriceUsd>
+        <note/>
+      </item>
+    </collection>
+  </card>
+  <card id="C09" riftcodexId="69bff35758d0fbca04e93731" tcgplayerId="685233">
+    <name>Thrill of the Hunt</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>184</collectorNumber>
+    <type>Spell</type>
+    <rarity>Epic</rarity>
+    <domains>
+      <domain>Fury</domain>
+      <domain>Body</domain>
+    </domains>
+    <energy>2</energy>
+    <might/>
+    <text>[Reaction] (Play any time, even before spells and abilities resolve.)Banish a friendly unit, then its owner plays it to any battlefield, ignoring its cost.</text>
+    <prices currency="USD">
+      <price date="2026-10-26" id="P13" variant="Foil">
+        <lowPrice>3.4</lowPrice>
+        <midPrice>7.76</midPrice>
+        <highPrice>30</highPrice>
+        <marketPrice>5.73</marketPrice>
+      </price>
+    </prices>
+    <collection quantity="1" valueUsd="5.73">
+      <item id="K10">
+        <variant>Foil</variant>
+        <quantity>1</quantity>
+        <condition>Near Mint</condition>
+        <acquiredDate>2026-06-14</acquiredDate>
+        <purchasePriceUsd>6.5</purchasePriceUsd>
+        <note>menjava na turnirju</note>
+      </item>
+    </collection>
+  </card>
+  <card id="C10" riftcodexId="69bff35758d0fbca04e93738" tcgplayerId="685492">
+    <name>The Ruination</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>180</collectorNumber>
+    <type>Spell</type>
+    <rarity>Epic</rarity>
+    <domains>
+      <domain>Order</domain>
+    </domains>
+    <energy>9</energy>
+    <might/>
+    <text>Kill all units.</text>
+    <prices currency="USD">
+      <price date="2026-10-26" id="P14" variant="Foil">
+        <lowPrice>4</lowPrice>
+        <midPrice>7.65</midPrice>
+        <highPrice>42.75</highPrice>
+        <marketPrice>5.54</marketPrice>
+      </price>
+    </prices>
+    <collection quantity="1" valueUsd="5.54">
+      <item id="K19">
+        <variant>Foil</variant>
+        <quantity>1</quantity>
+        <condition>Near Mint</condition>
+        <acquiredDate>2026-10-12</acquiredDate>
+        <purchasePriceUsd>5.2</purchasePriceUsd>
+        <note>za Order deck</note>
+      </item>
+    </collection>
+  </card>
+  <card id="C07" riftcodexId="69c4407d9288b1e85d94de92" tcgplayerId="685589">
+    <name>Sprite Fountain</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>78</collectorNumber>
+    <type>Gear</type>
+    <rarity>Uncommon</rarity>
+    <domains>
+      <domain>Mind</domain>
+    </domains>
+    <energy>2</energy>
+    <might/>
+    <text>[Temporary] (Kill this at the start of its controller's Beginning Phase, before scoring.)When you play this, play a ready 3 :rb_might: Sprite unit token with [Temporary] to your base.[Deathknell][&amp;gt;] Repeat this gear's play effect. (When this dies, get the effect.)</text>
+    <prices currency="USD">
+      <price date="2026-10-26" id="P09" variant="Foil">
+        <lowPrice>4.49</lowPrice>
+        <midPrice>7</midPrice>
+        <highPrice>505.18</highPrice>
+        <marketPrice>4.65</marketPrice>
+      </price>
+      <price date="2026-10-26" id="P10" variant="Normal">
+        <lowPrice>1</lowPrice>
+        <midPrice>3</midPrice>
+        <highPrice>24</highPrice>
+        <marketPrice>2.27</marketPrice>
+      </price>
+    </prices>
+    <collection quantity="1" valueUsd="4.65">
+      <item id="K08">
+        <variant>Foil</variant>
+        <quantity>1</quantity>
+        <condition>Lightly Played</condition>
+        <acquiredDate>2026-05-23</acquiredDate>
+        <purchasePriceUsd>4</purchasePriceUsd>
+        <note/>
+      </item>
+    </collection>
+  </card>
+  <card id="C16" riftcodexId="69bff35758d0fbca04e93736" tcgplayerId="685490">
+    <name>Turn to Dust</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>70</collectorNumber>
+    <type>Spell</type>
+    <rarity>Common</rarity>
+    <domains>
+      <domain>Mind</domain>
+    </domains>
+    <energy>2</energy>
+    <might/>
+    <text>Give a gear [Temporary]. (Kill it at the start of its controller's Beginning Phase, before scoring.)</text>
+    <prices currency="USD">
+      <price date="2026-10-26" id="P22" variant="Normal">
+        <lowPrice>0.01</lowPrice>
+        <midPrice>0.2</midPrice>
+        <highPrice>5.08</highPrice>
+        <marketPrice>0.08</marketPrice>
+      </price>
+      <price date="2026-10-26" id="P23" variant="Foil">
+        <lowPrice>0.44</lowPrice>
+        <midPrice>0.86</midPrice>
+        <highPrice>4.99</highPrice>
+        <marketPrice>0.82</marketPrice>
+      </price>
+    </prices>
+    <collection quantity="2" valueUsd="1.64">
+      <item id="K16">
+        <variant>Foil</variant>
+        <quantity>2</quantity>
+        <condition>Near Mint</condition>
+        <acquiredDate>2026-08-22</acquiredDate>
+        <purchasePriceUsd>0.9</purchasePriceUsd>
+        <note/>
+      </item>
+    </collection>
+  </card>
+  <card id="C25" riftcodexId="69bc5be2d308c64675ca88cb" tcgplayerId="666501">
+    <name>Hard Bargain</name>
+    <set code="SFD">Spiritforged</set>
+    <collectorNumber>136</collectorNumber>
+    <type>Spell</type>
+    <rarity>Uncommon</rarity>
+    <domains>
+      <domain>Chaos</domain>
+    </domains>
+    <energy>2</energy>
+    <might/>
+    <text>[Reaction] (Play any time, even before spells and abilities resolve.)[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)Counter a spell unless its controller pays :rb_energy_2:.</text>
+    <prices currency="USD">
+      <price date="2026-10-26" id="P34" variant="Normal">
+        <lowPrice>0.49</lowPrice>
+        <midPrice>1.02</midPrice>
+        <highPrice>8</highPrice>
+        <marketPrice>0.7</marketPrice>
+      </price>
+      <price date="2026-10-26" id="P35" variant="Foil">
+        <lowPrice>1.6</lowPrice>
+        <midPrice>3.84</midPrice>
+        <highPrice>20</highPrice>
+        <marketPrice>2.9</marketPrice>
+      </price>
+    </prices>
+    <collection quantity="2" valueUsd="1.4">
+      <item id="K04">
+        <variant>Normal</variant>
+        <quantity>2</quantity>
+        <condition>Lightly Played</condition>
+        <acquiredDate>2026-02-20</acquiredDate>
+        <purchasePriceUsd/>
+        <note/>
+      </item>
+    </collection>
+  </card>
+  <card id="C17" riftcodexId="69c4407d9288b1e85d94de9c" tcgplayerId="685599">
+    <name>Daisy!</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>196</collectorNumber>
+    <type>Unit</type>
+    <rarity>Epic</rarity>
+    <domains>
+      <domain>Calm</domain>
+      <domain>Order</domain>
+    </domains>
+    <energy>9</energy>
+    <might>8</might>
+    <text>I enter ready.Reduce my cost by :rb_energy_1: for each of the following tags among your units — Bird, Cat, Dog, and Poro.When I attack while your units have all 4 tags, [Stun] an enemy unit here. (It doesn't deal combat damage this turn.)</text>
+    <prices currency="USD">
+      <price date="2026-10-26" id="P24" variant="Foil">
+        <lowPrice>0.2</lowPrice>
+        <midPrice>1.37</midPrice>
+        <highPrice>19.99</highPrice>
+        <marketPrice>1.28</marketPrice>
+      </price>
+    </prices>
+    <collection quantity="1" valueUsd="1.28">
+      <item id="K17">
+        <variant>Foil</variant>
+        <quantity>1</quantity>
+        <condition>Lightly Played</condition>
+        <acquiredDate>2026-09-10</acquiredDate>
+        <purchasePriceUsd>1.5</purchasePriceUsd>
+        <note/>
+      </item>
+    </collection>
+  </card>
+  <card id="C13" riftcodexId="69bff35758d0fbca04e93732" tcgplayerId="685253">
+    <name>Shadow's Call</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>165</collectorNumber>
+    <type>Spell</type>
+    <rarity>Uncommon</rarity>
+    <domains>
+      <domain>Order</domain>
+    </domains>
+    <energy>2</energy>
+    <might/>
+    <text>Choose a friendly unit without [Temporary]. Give it [Temporary]. Draw 2. (Kill it at the start of its controller's Beginning Phase, before scoring.)</text>
+    <prices currency="USD">
+      <price date="2026-10-26" id="P18" variant="Foil">
+        <lowPrice>1</lowPrice>
+        <midPrice>1.71</midPrice>
+        <highPrice>9.99</highPrice>
+        <marketPrice>1.66</marketPrice>
+      </price>
+      <price date="2026-10-26" id="P19" variant="Normal">
+        <lowPrice>0.01</lowPrice>
+        <midPrice>0.41</midPrice>
+        <highPrice>5.34</highPrice>
+        <marketPrice>0.34</marketPrice>
+      </price>
+    </prices>
+    <collection quantity="3" valueUsd="1.02">
+      <item id="K14">
+        <variant>Normal</variant>
+        <quantity>3</quantity>
+        <condition>Near Mint</condition>
+        <acquiredDate>2026-07-18</acquiredDate>
+        <purchasePriceUsd>0.4</purchasePriceUsd>
+        <note/>
+      </item>
+    </collection>
+  </card>
+  <card id="C05" riftcodexId="69c4407d9288b1e85d94de95" tcgplayerId="685592">
+    <name>Bewitching Spirit</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>121</collectorNumber>
+    <type>Unit</type>
+    <rarity>Common</rarity>
+    <domains>
+      <domain>Chaos</domain>
+    </domains>
+    <energy>3</energy>
+    <might>2</might>
+    <text>When you play me, choose a player. They discard 1.</text>
+    <prices currency="USD">
+      <price date="2026-10-26" id="P05" variant="Normal">
+        <lowPrice>0.01</lowPrice>
+        <midPrice>0.2</midPrice>
+        <highPrice>5.11</highPrice>
+        <marketPrice>0.11</marketPrice>
+      </price>
+      <price date="2026-10-26" id="P06" variant="Foil">
+        <lowPrice>0.05</lowPrice>
+        <midPrice>0.3</midPrice>
+        <highPrice>5.26</highPrice>
+        <marketPrice>0.26</marketPrice>
+      </price>
+    </prices>
+    <collection quantity="4" valueUsd="0.59">
+      <item id="K06">
+        <variant>Normal</variant>
+        <quantity>3</quantity>
+        <condition>Near Mint</condition>
+        <acquiredDate>2026-05-09</acquiredDate>
+        <purchasePriceUsd>0.1</purchasePriceUsd>
+        <note>iz prvega boosterja</note>
+      </item>
+      <item id="K18">
+        <variant>Foil</variant>
+        <quantity>1</quantity>
+        <condition>Near Mint</condition>
+        <acquiredDate>2026-09-27</acquiredDate>
+        <purchasePriceUsd>0.3</purchasePriceUsd>
+        <note/>
+      </item>
+    </collection>
+  </card>
+  <card id="C08" riftcodexId="69c4407d9288b1e85d94de8f" tcgplayerId="685586">
+    <name>Lotus Trap</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>13</collectorNumber>
+    <type>Spell</type>
+    <rarity>Uncommon</rarity>
+    <domains>
+      <domain>Fury</domain>
+    </domains>
+    <energy>2</energy>
+    <might/>
+    <text>[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)[Reaction] (Play any time, even before spells and abilities resolve.)Choose a unit. Double all damage that would be dealt to it this turn.</text>
+    <prices currency="USD">
+      <price date="2026-10-26" id="P11" variant="Foil">
+        <lowPrice>0.1</lowPrice>
+        <midPrice>0.39</midPrice>
+        <highPrice>5.36</highPrice>
+        <marketPrice>0.35</marketPrice>
+      </price>
+      <price date="2026-10-26" id="P12" variant="Normal">
+        <lowPrice>0.01</lowPrice>
+        <midPrice>0.2</midPrice>
+        <highPrice>5.11</highPrice>
+        <marketPrice>0.11</marketPrice>
+      </price>
+    </prices>
+    <collection quantity="3" valueUsd="0.33">
+      <item id="K09">
+        <variant>Normal</variant>
+        <quantity>3</quantity>
+        <condition>Near Mint</condition>
+        <acquiredDate>2026-06-02</acquiredDate>
+        <purchasePriceUsd>0.15</purchasePriceUsd>
+        <note/>
+      </item>
+    </collection>
+  </card>
+  <card id="C12" riftcodexId="69c4407d9288b1e85d94de9e" tcgplayerId="685601">
+    <name>Star Spring</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>215</collectorNumber>
+    <type>Battlefield</type>
+    <rarity>Uncommon</rarity>
+    <domains>
+      <domain>Colorless</domain>
+    </domains>
+    <energy/>
+    <might/>
+    <text>The first time a player plays a non-token unit here each turn, they may move another unit they control here to its base.</text>
+    <prices currency="USD">
+      <price date="2026-10-26" id="P16" variant="Normal">
+        <lowPrice>0.01</lowPrice>
+        <midPrice>0.2</midPrice>
+        <highPrice>5.14</highPrice>
+        <marketPrice>0.14</marketPrice>
+      </price>
+      <price date="2026-10-26" id="P17" variant="Foil">
+        <lowPrice>0.22</lowPrice>
+        <midPrice>0.49</midPrice>
+        <highPrice>4.99</highPrice>
+        <marketPrice>0.43</marketPrice>
+      </price>
+    </prices>
+    <collection quantity="1" valueUsd="0.14">
+      <item id="K13">
+        <variant>Normal</variant>
+        <quantity>1</quantity>
+        <condition>Moderately Played</condition>
+        <acquiredDate>2026-07-01</acquiredDate>
+        <purchasePriceUsd/>
+        <note/>
+      </item>
+    </collection>
+  </card>
+  <card id="C06" riftcodexId="69c4407d9288b1e85d94de93" tcgplayerId="685590">
+    <name>Voracious Gromp</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>100</collectorNumber>
+    <type>Unit</type>
+    <rarity>Common</rarity>
+    <domains>
+      <domain>Body</domain>
+    </domains>
+    <energy>5</energy>
+    <might>5</might>
+    <text>[Hunt 3] (When I conquer or hold, gain 3 XP.)</text>
+    <prices currency="USD">
+      <price date="2026-10-26" id="P07" variant="Normal">
+        <lowPrice>0.01</lowPrice>
+        <midPrice>0.17</midPrice>
+        <highPrice>5.05</highPrice>
+        <marketPrice>0.05</marketPrice>
+      </price>
+      <price date="2026-10-26" id="P08" variant="Foil">
+        <lowPrice>0.01</lowPrice>
+        <midPrice>0.25</midPrice>
+        <highPrice>5.17</highPrice>
+        <marketPrice>0.17</marketPrice>
+      </price>
+    </prices>
+    <collection quantity="2" valueUsd="0.1">
+      <item id="K07">
+        <variant>Normal</variant>
+        <quantity>2</quantity>
+        <condition>Near Mint</condition>
+        <acquiredDate>2026-05-09</acquiredDate>
+        <purchasePriceUsd/>
+        <note/>
+      </item>
+    </collection>
+  </card>
+</filteredCards>

@@ -1,0 +1,819 @@
+{
+  "generatedAt": "2026-10-27T00:42:14",
+  "filter": {
+    "owned": "true",
+    "acquired-after": "2026-01-01"
+  },
+  "count": 15,
+  "totalCollectionValueUsd": 121.18,
+  "cards": [
+    {
+      "id": "C04",
+      "riftcodexId": "69c4407d9288b1e85d94de9f",
+      "tcgplayerId": "685602",
+      "name": "Jhin - Virtuoso (Overnumbered)",
+      "set": {
+        "code": "UNL",
+        "name": "Unleashed"
+      },
+      "collectorNumber": 226,
+      "type": "Legend",
+      "rarity": "Rare",
+      "domains": [
+        "Fury",
+        "Mind"
+      ],
+      "energy": null,
+      "might": null,
+      "text": "When you play a spell, if you spent :rb_energy_4: or more, you may banish it. Then, if there are four spells banished with me, put each in its trash, channel 4 runes, and draw 1.",
+      "imageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/47f10693258104e9373396165e335014bf5783a2-744x1039.png?accountingTag=RB",
+      "prices": [
+        {
+          "id": "P04",
+          "date": "2026-10-26",
+          "variant": "Foil",
+          "lowPrice": 54,
+          "midPrice": 72.02,
+          "highPrice": 600,
+          "marketPrice": 68.23,
+          "currency": "USD"
+        }
+      ],
+      "collection": {
+        "quantity": 1,
+        "valueUsd": 68.23,
+        "items": [
+          {
+            "id": "K15",
+            "variant": "Foil",
+            "quantity": 1,
+            "condition": "Near Mint",
+            "acquiredDate": "2026-08-05",
+            "purchasePriceUsd": 75,
+            "note": "pull iz booster boxa"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C23",
+      "riftcodexId": "69bc5be5d308c64675ca8901",
+      "tcgplayerId": "666812",
+      "name": "Arise!",
+      "set": {
+        "code": "SFD",
+        "name": "Spiritforged"
+      },
+      "collectorNumber": 198,
+      "type": "Spell",
+      "rarity": "Epic",
+      "domains": [
+        "Calm",
+        "Order"
+      ],
+      "energy": 6,
+      "might": null,
+      "text": "Play a 2 :rb_might: Sand Soldier unit token for each Equipment you control. Then ready two of them.",
+      "imageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/346f4698fea2878dde88470c1793047140c981e3-744x1039.png?accountingTag=RB",
+      "prices": [
+        {
+          "id": "P32",
+          "date": "2026-10-26",
+          "variant": "Foil",
+          "lowPrice": 15.14,
+          "midPrice": 20.99,
+          "highPrice": 515.07,
+          "marketPrice": 17.69,
+          "currency": "USD"
+        }
+      ],
+      "collection": {
+        "quantity": 1,
+        "valueUsd": 17.69,
+        "items": [
+          {
+            "id": "K05",
+            "variant": "Foil",
+            "quantity": 1,
+            "condition": "Near Mint",
+            "acquiredDate": "2026-03-01",
+            "purchasePriceUsd": 15,
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "C21",
+      "riftcodexId": "69bc5bd3d308c64675ca87ad",
+      "tcgplayerId": "653018",
+      "name": "Salvage",
+      "set": {
+        "code": "OGN",
+        "name": "Origins"
+      },
+      "collectorNumber": 224,
+      "type": "Spell",
+      "rarity": "Uncommon",
+      "domains": [
+        "Order"
+      ],
+      "energy": 2,
+      "might": null,
+      "text": "[Action] (Play on your turn or in showdowns.)You may kill a gear. Draw 1.",
+      "imageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9bdbac358e7c9415c1354b6d1f6888dcf9c5519b-744x1039.png?accountingTag=RB",
+      "prices": [
+        {
+          "id": "P28",
+          "date": "2026-10-26",
+          "variant": "Foil",
+          "lowPrice": 5.85,
+          "midPrice": 7.71,
+          "highPrice": 15,
+          "marketPrice": 7.37,
+          "currency": "USD"
+        },
+        {
+          "id": "P29",
+          "date": "2026-10-26",
+          "variant": "Normal",
+          "lowPrice": 2.67,
+          "midPrice": 4.49,
+          "highPrice": 504.87,
+          "marketPrice": 3.36,
+          "currency": "USD"
+        }
+      ],
+      "collection": {
+        "quantity": 2,
+        "valueUsd": 6.72,
+        "items": [
+          {
+            "id": "K03",
+            "variant": "Normal",
+            "quantity": 2,
+            "condition": "Near Mint",
+            "acquiredDate": "2026-02-20",
+            "purchasePriceUsd": 3,
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "C02",
+      "riftcodexId": "69c4407d9288b1e85d94de98",
+      "tcgplayerId": "685595",
+      "name": "Vi - Peacekeeper",
+      "set": {
+        "code": "UNL",
+        "name": "Unleashed"
+      },
+      "collectorNumber": 176,
+      "type": "Unit",
+      "rarity": "Rare",
+      "domains": [
+        "Order"
+      ],
+      "energy": 5,
+      "might": 5,
+      "text": "[Ambush] (You may play me as a [Reaction] to a battlefield where you have units.)When I attack, [Stun] an enemy unit here. (It doesn't deal combat damage this turn.)",
+      "imageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/51610bbdecd77b15f58b9a968611e536ebdf445e-744x1039.png?accountingTag=RB",
+      "prices": [
+        {
+          "id": "P02",
+          "date": "2026-10-26",
+          "variant": "Foil",
+          "lowPrice": 2.35,
+          "midPrice": 3.95,
+          "highPrice": 11,
+          "marketPrice": 3.06,
+          "currency": "USD"
+        }
+      ],
+      "collection": {
+        "quantity": 2,
+        "valueUsd": 6.12,
+        "items": [
+          {
+            "id": "K11",
+            "variant": "Foil",
+            "quantity": 2,
+            "condition": "Near Mint",
+            "acquiredDate": "2026-06-14",
+            "purchasePriceUsd": 2.8,
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "C09",
+      "riftcodexId": "69bff35758d0fbca04e93731",
+      "tcgplayerId": "685233",
+      "name": "Thrill of the Hunt",
+      "set": {
+        "code": "UNL",
+        "name": "Unleashed"
+      },
+      "collectorNumber": 184,
+      "type": "Spell",
+      "rarity": "Epic",
+      "domains": [
+        "Fury",
+        "Body"
+      ],
+      "energy": 2,
+      "might": null,
+      "text": "[Reaction] (Play any time, even before spells and abilities resolve.)Banish a friendly unit, then its owner plays it to any battlefield, ignoring its cost.",
+      "imageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2753c2b3ea4fd55e5225a4451a29736b5c3434a8-744x1039.png?accountingTag=RB",
+      "prices": [
+        {
+          "id": "P13",
+          "date": "2026-10-26",
+          "variant": "Foil",
+          "lowPrice": 3.4,
+          "midPrice": 7.76,
+          "highPrice": 30,
+          "marketPrice": 5.73,
+          "currency": "USD"
+        }
+      ],
+      "collection": {
+        "quantity": 1,
+        "valueUsd": 5.73,
+        "items": [
+          {
+            "id": "K10",
+            "variant": "Foil",
+            "quantity": 1,
+            "condition": "Near Mint",
+            "acquiredDate": "2026-06-14",
+            "purchasePriceUsd": 6.5,
+            "note": "menjava na turnirju"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C10",
+      "riftcodexId": "69bff35758d0fbca04e93738",
+      "tcgplayerId": "685492",
+      "name": "The Ruination",
+      "set": {
+        "code": "UNL",
+        "name": "Unleashed"
+      },
+      "collectorNumber": 180,
+      "type": "Spell",
+      "rarity": "Epic",
+      "domains": [
+        "Order"
+      ],
+      "energy": 9,
+      "might": null,
+      "text": "Kill all units.",
+      "imageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f1fea5bfad864f8d58b1b55b04de951285f6ad4e-744x1039.png?accountingTag=RB",
+      "prices": [
+        {
+          "id": "P14",
+          "date": "2026-10-26",
+          "variant": "Foil",
+          "lowPrice": 4,
+          "midPrice": 7.65,
+          "highPrice": 42.75,
+          "marketPrice": 5.54,
+          "currency": "USD"
+        }
+      ],
+      "collection": {
+        "quantity": 1,
+        "valueUsd": 5.54,
+        "items": [
+          {
+            "id": "K19",
+            "variant": "Foil",
+            "quantity": 1,
+            "condition": "Near Mint",
+            "acquiredDate": "2026-10-12",
+            "purchasePriceUsd": 5.2,
+            "note": "za Order deck"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C07",
+      "riftcodexId": "69c4407d9288b1e85d94de92",
+      "tcgplayerId": "685589",
+      "name": "Sprite Fountain",
+      "set": {
+        "code": "UNL",
+        "name": "Unleashed"
+      },
+      "collectorNumber": 78,
+      "type": "Gear",
+      "rarity": "Uncommon",
+      "domains": [
+        "Mind"
+      ],
+      "energy": 2,
+      "might": null,
+      "text": "[Temporary] (Kill this at the start of its controller's Beginning Phase, before scoring.)When you play this, play a ready 3 :rb_might: Sprite unit token with [Temporary] to your base.[Deathknell][&gt;] Repeat this gear's play effect. (When this dies, get the effect.)",
+      "imageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fcb3ea3e8f829b8dc845fbf49080552d635bb47b-744x1039.png?accountingTag=RB",
+      "prices": [
+        {
+          "id": "P09",
+          "date": "2026-10-26",
+          "variant": "Foil",
+          "lowPrice": 4.49,
+          "midPrice": 7,
+          "highPrice": 505.18,
+          "marketPrice": 4.65,
+          "currency": "USD"
+        },
+        {
+          "id": "P10",
+          "date": "2026-10-26",
+          "variant": "Normal",
+          "lowPrice": 1,
+          "midPrice": 3,
+          "highPrice": 24,
+          "marketPrice": 2.27,
+          "currency": "USD"
+        }
+      ],
+      "collection": {
+        "quantity": 1,
+        "valueUsd": 4.65,
+        "items": [
+          {
+            "id": "K08",
+            "variant": "Foil",
+            "quantity": 1,
+            "condition": "Lightly Played",
+            "acquiredDate": "2026-05-23",
+            "purchasePriceUsd": 4,
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "C16",
+      "riftcodexId": "69bff35758d0fbca04e93736",
+      "tcgplayerId": "685490",
+      "name": "Turn to Dust",
+      "set": {
+        "code": "UNL",
+        "name": "Unleashed"
+      },
+      "collectorNumber": 70,
+      "type": "Spell",
+      "rarity": "Common",
+      "domains": [
+        "Mind"
+      ],
+      "energy": 2,
+      "might": null,
+      "text": "Give a gear [Temporary]. (Kill it at the start of its controller's Beginning Phase, before scoring.)",
+      "imageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4986c0c2fea96d9a88d736789d604374a64d03fb-744x1039.png?accountingTag=RB",
+      "prices": [
+        {
+          "id": "P22",
+          "date": "2026-10-26",
+          "variant": "Normal",
+          "lowPrice": 0.01,
+          "midPrice": 0.2,
+          "highPrice": 5.08,
+          "marketPrice": 0.08,
+          "currency": "USD"
+        },
+        {
+          "id": "P23",
+          "date": "2026-10-26",
+          "variant": "Foil",
+          "lowPrice": 0.44,
+          "midPrice": 0.86,
+          "highPrice": 4.99,
+          "marketPrice": 0.82,
+          "currency": "USD"
+        }
+      ],
+      "collection": {
+        "quantity": 2,
+        "valueUsd": 1.64,
+        "items": [
+          {
+            "id": "K16",
+            "variant": "Foil",
+            "quantity": 2,
+            "condition": "Near Mint",
+            "acquiredDate": "2026-08-22",
+            "purchasePriceUsd": 0.9,
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "C25",
+      "riftcodexId": "69bc5be2d308c64675ca88cb",
+      "tcgplayerId": "666501",
+      "name": "Hard Bargain",
+      "set": {
+        "code": "SFD",
+        "name": "Spiritforged"
+      },
+      "collectorNumber": 136,
+      "type": "Spell",
+      "rarity": "Uncommon",
+      "domains": [
+        "Chaos"
+      ],
+      "energy": 2,
+      "might": null,
+      "text": "[Reaction] (Play any time, even before spells and abilities resolve.)[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)Counter a spell unless its controller pays :rb_energy_2:.",
+      "imageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2b09887a6e0d2f109aefea62ca6744488794c233-744x1039.png?accountingTag=RB",
+      "prices": [
+        {
+          "id": "P34",
+          "date": "2026-10-26",
+          "variant": "Normal",
+          "lowPrice": 0.49,
+          "midPrice": 1.02,
+          "highPrice": 8,
+          "marketPrice": 0.7,
+          "currency": "USD"
+        },
+        {
+          "id": "P35",
+          "date": "2026-10-26",
+          "variant": "Foil",
+          "lowPrice": 1.6,
+          "midPrice": 3.84,
+          "highPrice": 20,
+          "marketPrice": 2.9,
+          "currency": "USD"
+        }
+      ],
+      "collection": {
+        "quantity": 2,
+        "valueUsd": 1.4,
+        "items": [
+          {
+            "id": "K04",
+            "variant": "Normal",
+            "quantity": 2,
+            "condition": "Lightly Played",
+            "acquiredDate": "2026-02-20",
+            "purchasePriceUsd": null,
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "C17",
+      "riftcodexId": "69c4407d9288b1e85d94de9c",
+      "tcgplayerId": "685599",
+      "name": "Daisy!",
+      "set": {
+        "code": "UNL",
+        "name": "Unleashed"
+      },
+      "collectorNumber": 196,
+      "type": "Unit",
+      "rarity": "Epic",
+      "domains": [
+        "Calm",
+        "Order"
+      ],
+      "energy": 9,
+      "might": 8,
+      "text": "I enter ready.Reduce my cost by :rb_energy_1: for each of the following tags among your units — Bird, Cat, Dog, and Poro.When I attack while your units have all 4 tags, [Stun] an enemy unit here. (It doesn't deal combat damage this turn.)",
+      "imageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ada85b2a6076b60933831454d02a21da3654362c-744x1039.png?accountingTag=RB",
+      "prices": [
+        {
+          "id": "P24",
+          "date": "2026-10-26",
+          "variant": "Foil",
+          "lowPrice": 0.2,
+          "midPrice": 1.37,
+          "highPrice": 19.99,
+          "marketPrice": 1.28,
+          "currency": "USD"
+        }
+      ],
+      "collection": {
+        "quantity": 1,
+        "valueUsd": 1.28,
+        "items": [
+          {
+            "id": "K17",
+            "variant": "Foil",
+            "quantity": 1,
+            "condition": "Lightly Played",
+            "acquiredDate": "2026-09-10",
+            "purchasePriceUsd": 1.5,
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "C13",
+      "riftcodexId": "69bff35758d0fbca04e93732",
+      "tcgplayerId": "685253",
+      "name": "Shadow's Call",
+      "set": {
+        "code": "UNL",
+        "name": "Unleashed"
+      },
+      "collectorNumber": 165,
+      "type": "Spell",
+      "rarity": "Uncommon",
+      "domains": [
+        "Order"
+      ],
+      "energy": 2,
+      "might": null,
+      "text": "Choose a friendly unit without [Temporary]. Give it [Temporary]. Draw 2. (Kill it at the start of its controller's Beginning Phase, before scoring.)",
+      "imageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5a9a81d353131fc275313e737d55ca6e2661dce6-744x1039.png?accountingTag=RB",
+      "prices": [
+        {
+          "id": "P18",
+          "date": "2026-10-26",
+          "variant": "Foil",
+          "lowPrice": 1,
+          "midPrice": 1.71,
+          "highPrice": 9.99,
+          "marketPrice": 1.66,
+          "currency": "USD"
+        },
+        {
+          "id": "P19",
+          "date": "2026-10-26",
+          "variant": "Normal",
+          "lowPrice": 0.01,
+          "midPrice": 0.41,
+          "highPrice": 5.34,
+          "marketPrice": 0.34,
+          "currency": "USD"
+        }
+      ],
+      "collection": {
+        "quantity": 3,
+        "valueUsd": 1.02,
+        "items": [
+          {
+            "id": "K14",
+            "variant": "Normal",
+            "quantity": 3,
+            "condition": "Near Mint",
+            "acquiredDate": "2026-07-18",
+            "purchasePriceUsd": 0.4,
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "C05",
+      "riftcodexId": "69c4407d9288b1e85d94de95",
+      "tcgplayerId": "685592",
+      "name": "Bewitching Spirit",
+      "set": {
+        "code": "UNL",
+        "name": "Unleashed"
+      },
+      "collectorNumber": 121,
+      "type": "Unit",
+      "rarity": "Common",
+      "domains": [
+        "Chaos"
+      ],
+      "energy": 3,
+      "might": 2,
+      "text": "When you play me, choose a player. They discard 1.",
+      "imageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a771917dea98b137c3f4a13e4967dccf9ee445e5-744x1039.png?accountingTag=RB",
+      "prices": [
+        {
+          "id": "P05",
+          "date": "2026-10-26",
+          "variant": "Normal",
+          "lowPrice": 0.01,
+          "midPrice": 0.2,
+          "highPrice": 5.11,
+          "marketPrice": 0.11,
+          "currency": "USD"
+        },
+        {
+          "id": "P06",
+          "date": "2026-10-26",
+          "variant": "Foil",
+          "lowPrice": 0.05,
+          "midPrice": 0.3,
+          "highPrice": 5.26,
+          "marketPrice": 0.26,
+          "currency": "USD"
+        }
+      ],
+      "collection": {
+        "quantity": 4,
+        "valueUsd": 0.59,
+        "items": [
+          {
+            "id": "K06",
+            "variant": "Normal",
+            "quantity": 3,
+            "condition": "Near Mint",
+            "acquiredDate": "2026-05-09",
+            "purchasePriceUsd": 0.1,
+            "note": "iz prvega boosterja"
+          },
+          {
+            "id": "K18",
+            "variant": "Foil",
+            "quantity": 1,
+            "condition": "Near Mint",
+            "acquiredDate": "2026-09-27",
+            "purchasePriceUsd": 0.3,
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "C08",
+      "riftcodexId": "69c4407d9288b1e85d94de8f",
+      "tcgplayerId": "685586",
+      "name": "Lotus Trap",
+      "set": {
+        "code": "UNL",
+        "name": "Unleashed"
+      },
+      "collectorNumber": 13,
+      "type": "Spell",
+      "rarity": "Uncommon",
+      "domains": [
+        "Fury"
+      ],
+      "energy": 2,
+      "might": null,
+      "text": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)[Reaction] (Play any time, even before spells and abilities resolve.)Choose a unit. Double all damage that would be dealt to it this turn.",
+      "imageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9490f8c80da1bf4467e14c39b66ae4262e5f7f7b-744x1039.png?accountingTag=RB",
+      "prices": [
+        {
+          "id": "P11",
+          "date": "2026-10-26",
+          "variant": "Foil",
+          "lowPrice": 0.1,
+          "midPrice": 0.39,
+          "highPrice": 5.36,
+          "marketPrice": 0.35,
+          "currency": "USD"
+        },
+        {
+          "id": "P12",
+          "date": "2026-10-26",
+          "variant": "Normal",
+          "lowPrice": 0.01,
+          "midPrice": 0.2,
+          "highPrice": 5.11,
+          "marketPrice": 0.11,
+          "currency": "USD"
+        }
+      ],
+      "collection": {
+        "quantity": 3,
+        "valueUsd": 0.33,
+        "items": [
+          {
+            "id": "K09",
+            "variant": "Normal",
+            "quantity": 3,
+            "condition": "Near Mint",
+            "acquiredDate": "2026-06-02",
+            "purchasePriceUsd": 0.15,
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "C12",
+      "riftcodexId": "69c4407d9288b1e85d94de9e",
+      "tcgplayerId": "685601",
+      "name": "Star Spring",
+      "set": {
+        "code": "UNL",
+        "name": "Unleashed"
+      },
+      "collectorNumber": 215,
+      "type": "Battlefield",
+      "rarity": "Uncommon",
+      "domains": [
+        "Colorless"
+      ],
+      "energy": null,
+      "might": null,
+      "text": "The first time a player plays a non-token unit here each turn, they may move another unit they control here to its base.",
+      "imageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0c4fe88ffb5c1b02b58b2c6b4f02de441ac451d6-1039x744.png?accountingTag=RB",
+      "prices": [
+        {
+          "id": "P16",
+          "date": "2026-10-26",
+          "variant": "Normal",
+          "lowPrice": 0.01,
+          "midPrice": 0.2,
+          "highPrice": 5.14,
+          "marketPrice": 0.14,
+          "currency": "USD"
+        },
+        {
+          "id": "P17",
+          "date": "2026-10-26",
+          "variant": "Foil",
+          "lowPrice": 0.22,
+          "midPrice": 0.49,
+          "highPrice": 4.99,
+          "marketPrice": 0.43,
+          "currency": "USD"
+        }
+      ],
+      "collection": {
+        "quantity": 1,
+        "valueUsd": 0.14,
+        "items": [
+          {
+            "id": "K13",
+            "variant": "Normal",
+            "quantity": 1,
+            "condition": "Moderately Played",
+            "acquiredDate": "2026-07-01",
+            "purchasePriceUsd": null,
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "C06",
+      "riftcodexId": "69c4407d9288b1e85d94de93",
+      "tcgplayerId": "685590",
+      "name": "Voracious Gromp",
+      "set": {
+        "code": "UNL",
+        "name": "Unleashed"
+      },
+      "collectorNumber": 100,
+      "type": "Unit",
+      "rarity": "Common",
+      "domains": [
+        "Body"
+      ],
+      "energy": 5,
+      "might": 5,
+      "text": "[Hunt 3] (When I conquer or hold, gain 3 XP.)",
+      "imageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3c006b8c9aa4581ad90c258cc6cfac9098d3c296-744x1039.png?accountingTag=RB",
+      "prices": [
+        {
+          "id": "P07",
+          "date": "2026-10-26",
+          "variant": "Normal",
+          "lowPrice": 0.01,
+          "midPrice": 0.17,
+          "highPrice": 5.05,
+          "marketPrice": 0.05,
+          "currency": "USD"
+        },
+        {
+          "id": "P08",
+          "date": "2026-10-26",
+          "variant": "Foil",
+          "lowPrice": 0.01,
+          "midPrice": 0.25,
+          "highPrice": 5.17,
+          "marketPrice": 0.17,
+          "currency": "USD"
+        }
+      ],
+      "collection": {
+        "quantity": 2,
+        "valueUsd": 0.1,
+        "items": [
+          {
+            "id": "K07",
+            "variant": "Normal",
+            "quantity": 2,
+            "condition": "Near Mint",
+            "acquiredDate": "2026-05-09",
+            "purchasePriceUsd": null,
+            "note": null
+          }
+        ]
+      }
+    }
+  ]
+}

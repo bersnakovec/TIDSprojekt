@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: Riftcodex API (https://api.riftcodex.com/cards), retrieved 2026-10-27 -->
+<cards source="Riftcodex API">
+  <card id="C01" riftcodexId="69c4407c9288b1e85d94de8a" tcgplayerId="685522">
+    <name>Vi - Piltover Enforcer (Signature)</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>229</collectorNumber>
+    <type>Legend</type>
+    <rarity>Rare</rarity>
+    <domains>
+      <domain>Fury</domain>
+      <domain>Order</domain>
+    </domains>
+    <energy/>
+    <might/>
+    <text>When you conquer, if you assigned 3 or more excess damage, you may exhaust me to ready a unit.</text>
+    <artist>Jonathan Santoro</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0febae9c611339d9ed65c7ebe43237b5ec42c9a3-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C02" riftcodexId="69c4407d9288b1e85d94de98" tcgplayerId="685595">
+    <name>Vi - Peacekeeper</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>176</collectorNumber>
+    <type>Unit</type>
+    <rarity>Rare</rarity>
+    <domains>
+      <domain>Order</domain>
+    </domains>
+    <energy>5</energy>
+    <might>5</might>
+    <text>[Ambush] (You may play me as a [Reaction] to a battlefield where you have units.)When I attack, [Stun] an enemy unit here. (It doesn't deal combat damage this turn.)</text>
+    <artist>Envar Studio</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/51610bbdecd77b15f58b9a968611e536ebdf445e-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C03" riftcodexId="69c4407e9288b1e85d94dea5" tcgplayerId="685608">
+    <name>LeBlanc - Deceiver (Overnumbered)</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>235</collectorNumber>
+    <type>Legend</type>
+    <rarity>Rare</rarity>
+    <domains>
+      <domain>Mind</domain>
+      <domain>Order</domain>
+    </domains>
+    <energy/>
+    <might/>
+    <text>When you conquer or hold, you may discard 1 and exhaust me to play a ready Reflection unit token there. It becomes a copy of another unit there. Give it [Temporary].</text>
+    <artist>Valentine Tran</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/656450f89be4dc253438a4e0af7f7638ed5f90b2-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C04" riftcodexId="69c4407d9288b1e85d94de9f" tcgplayerId="685602">
+    <name>Jhin - Virtuoso (Overnumbered)</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>226</collectorNumber>
+    <type>Legend</type>
+    <rarity>Rare</rarity>
+    <domains>
+      <domain>Fury</domain>
+      <domain>Mind</domain>
+    </domains>
+    <energy/>
+    <might/>
+    <text>When you play a spell, if you spent :rb_energy_4: or more, you may banish it. Then, if there are four spells banished with me, put each in its trash, channel 4 runes, and draw 1.</text>
+    <artist>Blaine Burgos</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/47f10693258104e9373396165e335014bf5783a2-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C05" riftcodexId="69c4407d9288b1e85d94de95" tcgplayerId="685592">
+    <name>Bewitching Spirit</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>121</collectorNumber>
+    <type>Unit</type>
+    <rarity>Common</rarity>
+    <domains>
+      <domain>Chaos</domain>
+    </domains>
+    <energy>3</energy>
+    <might>2</might>
+    <text>When you play me, choose a player. They discard 1.</text>
+    <artist>Wild Blue Studios</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a771917dea98b137c3f4a13e4967dccf9ee445e5-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C06" riftcodexId="69c4407d9288b1e85d94de93" tcgplayerId="685590">
+    <name>Voracious Gromp</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>100</collectorNumber>
+    <type>Unit</type>
+    <rarity>Common</rarity>
+    <domains>
+      <domain>Body</domain>
+    </domains>
+    <energy>5</energy>
+    <might>5</might>
+    <text>[Hunt 3] (When I conquer or hold, gain 3 XP.)</text>
+    <artist>Polar Engine Studio</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3c006b8c9aa4581ad90c258cc6cfac9098d3c296-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C07" riftcodexId="69c4407d9288b1e85d94de92" tcgplayerId="685589">
+    <name>Sprite Fountain</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>78</collectorNumber>
+    <type>Gear</type>
+    <rarity>Uncommon</rarity>
+    <domains>
+      <domain>Mind</domain>
+    </domains>
+    <energy>2</energy>
+    <might/>
+    <text>[Temporary] (Kill this at the start of its controller's Beginning Phase, before scoring.)When you play this, play a ready 3 :rb_might: Sprite unit token with [Temporary] to your base.[Deathknell][&amp;gt;] Repeat this gear's play effect. (When this dies, get the effect.)</text>
+    <artist>Envar Studio</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fcb3ea3e8f829b8dc845fbf49080552d635bb47b-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C08" riftcodexId="69c4407d9288b1e85d94de8f" tcgplayerId="685586">
+    <name>Lotus Trap</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>13</collectorNumber>
+    <type>Spell</type>
+    <rarity>Uncommon</rarity>
+    <domains>
+      <domain>Fury</domain>
+    </domains>
+    <energy>2</energy>
+    <might/>
+    <text>[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)[Reaction] (Play any time, even before spells and abilities resolve.)Choose a unit. Double all damage that would be dealt to it this turn.</text>
+    <artist>Kudos Productions</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9490f8c80da1bf4467e14c39b66ae4262e5f7f7b-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C09" riftcodexId="69bff35758d0fbca04e93731" tcgplayerId="685233">
+    <name>Thrill of the Hunt</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>184</collectorNumber>
+    <type>Spell</type>
+    <rarity>Epic</rarity>
+    <domains>
+      <domain>Fury</domain>
+      <domain>Body</domain>
+    </domains>
+    <energy>2</energy>
+    <might/>
+    <text>[Reaction] (Play any time, even before spells and abilities resolve.)Banish a friendly unit, then its owner plays it to any battlefield, ignoring its cost.</text>
+    <artist>华锐</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2753c2b3ea4fd55e5225a4451a29736b5c3434a8-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C10" riftcodexId="69bff35758d0fbca04e93738" tcgplayerId="685492">
+    <name>The Ruination</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>180</collectorNumber>
+    <type>Spell</type>
+    <rarity>Epic</rarity>
+    <domains>
+      <domain>Order</domain>
+    </domains>
+    <energy>9</energy>
+    <might/>
+    <text>Kill all units.</text>
+    <artist>Oliver Chipping</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f1fea5bfad864f8d58b1b55b04de951285f6ad4e-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C11" riftcodexId="69c43cd2c2f7428c5d24b4e2" tcgplayerId="685519">
+    <name>Scuttle Crab</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>53</collectorNumber>
+    <type>Unit</type>
+    <rarity>Rare</rarity>
+    <domains>
+      <domain>Calm</domain>
+    </domains>
+    <energy>2</energy>
+    <might>0</might>
+    <text>(Units with 0 :rb_might: can conquer and hold.)When you play me, draw 1.[Deathknell][&amp;gt;] Choose an opponent. They reveal their hand. You can look at their facedown cards this turn. Gain 1 XP. (When I die, get the effects.)</text>
+    <artist>黯荧岛Dark Glow</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8c9a251b2deb21716fba0ac83c6aac96563fa19d-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C12" riftcodexId="69c4407d9288b1e85d94de9e" tcgplayerId="685601">
+    <name>Star Spring</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>215</collectorNumber>
+    <type>Battlefield</type>
+    <rarity>Uncommon</rarity>
+    <domains>
+      <domain>Colorless</domain>
+    </domains>
+    <energy/>
+    <might/>
+    <text>The first time a player plays a non-token unit here each turn, they may move another unit they control here to its base.</text>
+    <artist>Six More Vodka</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0c4fe88ffb5c1b02b58b2c6b4f02de441ac451d6-1039x744.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C13" riftcodexId="69bff35758d0fbca04e93732" tcgplayerId="685253">
+    <name>Shadow's Call</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>165</collectorNumber>
+    <type>Spell</type>
+    <rarity>Uncommon</rarity>
+    <domains>
+      <domain>Order</domain>
+    </domains>
+    <energy>2</energy>
+    <might/>
+    <text>Choose a friendly unit without [Temporary]. Give it [Temporary]. Draw 2. (Kill it at the start of its controller's Beginning Phase, before scoring.)</text>
+    <artist>Kudos Productions</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5a9a81d353131fc275313e737d55ca6e2661dce6-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C14" riftcodexId="69bff35658d0fbca04e93728" tcgplayerId="685028">
+    <name>Rift Herald (Alternate Art)</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>179</collectorNumber>
+    <type>Unit</type>
+    <rarity>Epic</rarity>
+    <domains>
+      <domain>Order</domain>
+    </domains>
+    <energy>8</energy>
+    <might>7</might>
+    <text>When I move to a battlefield, look at the top 3 cards of your Main Deck. You may reveal a unit from among them and draw it. Recycle the rest.[Deathknell][&amp;gt;] Play a unit from your hand to your base, ignoring its Energy cost.</text>
+    <artist>Grafit Studio</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e8fe608bffa46642e454b0b34f7524c5daef299e-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C15" riftcodexId="69bff35658d0fbca04e93727" tcgplayerId="685027">
+    <name>Kha'Zix - Mutating Horror</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>143</collectorNumber>
+    <type>Unit</type>
+    <rarity>Rare</rarity>
+    <domains>
+      <domain>Chaos</domain>
+    </domains>
+    <energy>4</energy>
+    <might>4</might>
+    <text>[Ambush] (You may play me as a [Reaction] to a battlefield where you have units.)When I attack or defend, if an enemy unit is alone here, give me +2 :rb_might: this turn and gain 2 XP.</text>
+    <artist>蛋费鸡丁</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8306abc5ffce45add8c75c2e215162b2d1aed320-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C16" riftcodexId="69bff35758d0fbca04e93736" tcgplayerId="685490">
+    <name>Turn to Dust</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>70</collectorNumber>
+    <type>Spell</type>
+    <rarity>Common</rarity>
+    <domains>
+      <domain>Mind</domain>
+    </domains>
+    <energy>2</energy>
+    <might/>
+    <text>Give a gear [Temporary]. (Kill it at the start of its controller's Beginning Phase, before scoring.)</text>
+    <artist>Kudos Productions</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4986c0c2fea96d9a88d736789d604374a64d03fb-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C17" riftcodexId="69c4407d9288b1e85d94de9c" tcgplayerId="685599">
+    <name>Daisy!</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>196</collectorNumber>
+    <type>Unit</type>
+    <rarity>Epic</rarity>
+    <domains>
+      <domain>Calm</domain>
+      <domain>Order</domain>
+    </domains>
+    <energy>9</energy>
+    <might>8</might>
+    <text>I enter ready.Reduce my cost by :rb_energy_1: for each of the following tags among your units — Bird, Cat, Dog, and Poro.When I attack while your units have all 4 tags, [Stun] an enemy unit here. (It doesn't deal combat damage this turn.)</text>
+    <artist>Polar Engine Studio</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ada85b2a6076b60933831454d02a21da3654362c-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C18" riftcodexId="69c4407e9288b1e85d94dea8" tcgplayerId="685664">
+    <name>Evelynn - Entrancing</name>
+    <set code="UNL">Unleashed</set>
+    <collectorNumber>141</collectorNumber>
+    <type>Unit</type>
+    <rarity>Rare</rarity>
+    <domains>
+      <domain>Chaos</domain>
+    </domains>
+    <energy>2</energy>
+    <might>2</might>
+    <text>[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)[Backline] (I must be assigned combat damage last.)When you play me from face down on your turn, you may move an enemy unit at a different location to my battlefield.</text>
+    <artist>Kudos Productions</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1cea41a2b9c3de59a1c95ceacc59950be1d01907-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C19" riftcodexId="69bc5bd2d308c64675ca8794" tcgplayerId="652993">
+    <name>Jinx - Rebel</name>
+    <set code="OGN">Origins</set>
+    <collectorNumber>202</collectorNumber>
+    <type>Unit</type>
+    <rarity>Epic</rarity>
+    <domains>
+      <domain>Chaos</domain>
+    </domains>
+    <energy>5</energy>
+    <might>5</might>
+    <text>When you discard one or more cards, ready me and give me +1 :rb_might: this turn.</text>
+    <artist>Kudos Productions</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a7fe105f40df66525be51bd18e25506945a7b027-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C20" riftcodexId="69bc5bd2d308c64675ca8797" tcgplayerId="652996">
+    <name>Seal of Discord</name>
+    <set code="OGN">Origins</set>
+    <collectorNumber>204</collectorNumber>
+    <type>Gear</type>
+    <rarity>Epic</rarity>
+    <domains>
+      <domain>Chaos</domain>
+    </domains>
+    <energy>0</energy>
+    <might/>
+    <text>:rb_exhaust:: [Reaction] — [Add] :rb_rune_chaos:. (Abilities that add resources can't be reacted to.)</text>
+    <artist>Kudos Productions</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dd8433e77e46ca77aaf0be35d1774218d9a2f037-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C21" riftcodexId="69bc5bd3d308c64675ca87ad" tcgplayerId="653018">
+    <name>Salvage</name>
+    <set code="OGN">Origins</set>
+    <collectorNumber>224</collectorNumber>
+    <type>Spell</type>
+    <rarity>Uncommon</rarity>
+    <domains>
+      <domain>Order</domain>
+    </domains>
+    <energy>2</energy>
+    <might/>
+    <text>[Action] (Play on your turn or in showdowns.)You may kill a gear. Draw 1.</text>
+    <artist>Kudos Productions</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9bdbac358e7c9415c1354b6d1f6888dcf9c5519b-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C22" riftcodexId="69bc5bd2d308c64675ca87a2" tcgplayerId="653007">
+    <name>Order Rune</name>
+    <set code="OGN">Origins</set>
+    <collectorNumber>214</collectorNumber>
+    <type>Rune</type>
+    <rarity>Common</rarity>
+    <domains>
+      <domain>Order</domain>
+    </domains>
+    <energy/>
+    <might/>
+    <text></text>
+    <artist>Greg Ghielmetti &amp; Leah Chen</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/35ec6fdd2124324bb7052cba31c8c44f2e98f3ae-744x1039.png</imageUrl>
+  </card>
+  <card id="C23" riftcodexId="69bc5be5d308c64675ca8901" tcgplayerId="666812">
+    <name>Arise!</name>
+    <set code="SFD">Spiritforged</set>
+    <collectorNumber>198</collectorNumber>
+    <type>Spell</type>
+    <rarity>Epic</rarity>
+    <domains>
+      <domain>Calm</domain>
+      <domain>Order</domain>
+    </domains>
+    <energy>6</energy>
+    <might/>
+    <text>Play a 2 :rb_might: Sand Soldier unit token for each Equipment you control. Then ready two of them.</text>
+    <artist>Kudos Productions</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/346f4698fea2878dde88470c1793047140c981e3-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C24" riftcodexId="69bc5be2d308c64675ca88c5" tcgplayerId="666493">
+    <name>Rek'Sai - Breacher</name>
+    <set code="SFD">Spiritforged</set>
+    <collectorNumber>29</collectorNumber>
+    <type>Unit</type>
+    <rarity>Epic</rarity>
+    <domains>
+      <domain>Fury</domain>
+    </domains>
+    <energy>3</energy>
+    <might>3</might>
+    <text>[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)[Assault] (+1 :rb_might: while I'm an attacker.)Friendly units played from anywhere other than a player's hand have [Accelerate].</text>
+    <artist>Six More Vodka</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/999e2d25ea32da971e7b99b6e75558286c17949e-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+  <card id="C25" riftcodexId="69bc5be2d308c64675ca88cb" tcgplayerId="666501">
+    <name>Hard Bargain</name>
+    <set code="SFD">Spiritforged</set>
+    <collectorNumber>136</collectorNumber>
+    <type>Spell</type>
+    <rarity>Uncommon</rarity>
+    <domains>
+      <domain>Chaos</domain>
+    </domains>
+    <energy>2</energy>
+    <might/>
+    <text>[Reaction] (Play any time, even before spells and abilities resolve.)[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)Counter a spell unless its controller pays :rb_energy_2:.</text>
+    <artist>Wild Blue Studios</artist>
+    <imageUrl>https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2b09887a6e0d2f109aefea62ca6744488794c233-744x1039.png?accountingTag=RB</imageUrl>
+  </card>
+</cards>

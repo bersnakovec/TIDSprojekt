@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: TCGCSV / TCGplayer (https://tcgcsv.com/tcgplayer/89/{groupId}/prices), updated 2026-10-26 -->
+<prices source="TCGCSV" currency="USD">
+  <price id="P01" cardId="C01">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>639.99</lowPrice>
+    <midPrice>769.35</midPrice>
+    <highPrice>1249.98</highPrice>
+    <marketPrice>641</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P02" cardId="C02">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>2.35</lowPrice>
+    <midPrice>3.95</midPrice>
+    <highPrice>11</highPrice>
+    <marketPrice>3.06</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P03" cardId="C03">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>144.9</lowPrice>
+    <midPrice>215.28</midPrice>
+    <highPrice>500</highPrice>
+    <marketPrice>212.42</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P04" cardId="C04">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>54</lowPrice>
+    <midPrice>72.02</midPrice>
+    <highPrice>600</highPrice>
+    <marketPrice>68.23</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P05" cardId="C05">
+    <date>2026-10-26</date>
+    <variant>Normal</variant>
+    <lowPrice>0.01</lowPrice>
+    <midPrice>0.2</midPrice>
+    <highPrice>5.11</highPrice>
+    <marketPrice>0.11</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P06" cardId="C05">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>0.05</lowPrice>
+    <midPrice>0.3</midPrice>
+    <highPrice>5.26</highPrice>
+    <marketPrice>0.26</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P07" cardId="C06">
+    <date>2026-10-26</date>
+    <variant>Normal</variant>
+    <lowPrice>0.01</lowPrice>
+    <midPrice>0.17</midPrice>
+    <highPrice>5.05</highPrice>
+    <marketPrice>0.05</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P08" cardId="C06">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>0.01</lowPrice>
+    <midPrice>0.25</midPrice>
+    <highPrice>5.17</highPrice>
+    <marketPrice>0.17</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P09" cardId="C07">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>4.49</lowPrice>
+    <midPrice>7</midPrice>
+    <highPrice>505.18</highPrice>
+    <marketPrice>4.65</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P10" cardId="C07">
+    <date>2026-10-26</date>
+    <variant>Normal</variant>
+    <lowPrice>1</lowPrice>
+    <midPrice>3</midPrice>
+    <highPrice>24</highPrice>
+    <marketPrice>2.27</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P11" cardId="C08">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>0.1</lowPrice>
+    <midPrice>0.39</midPrice>
+    <highPrice>5.36</highPrice>
+    <marketPrice>0.35</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P12" cardId="C08">
+    <date>2026-10-26</date>
+    <variant>Normal</variant>
+    <lowPrice>0.01</lowPrice>
+    <midPrice>0.2</midPrice>
+    <highPrice>5.11</highPrice>
+    <marketPrice>0.11</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P13" cardId="C09">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>3.4</lowPrice>
+    <midPrice>7.76</midPrice>
+    <highPrice>30</highPrice>
+    <marketPrice>5.73</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P14" cardId="C10">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>4</lowPrice>
+    <midPrice>7.65</midPrice>
+    <highPrice>42.75</highPrice>
+    <marketPrice>5.54</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P15" cardId="C11">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>3</lowPrice>
+    <midPrice>4.66</midPrice>
+    <highPrice>9.99</highPrice>
+    <marketPrice>4.45</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P16" cardId="C12">
+    <date>2026-10-26</date>
+    <variant>Normal</variant>
+    <lowPrice>0.01</lowPrice>
+    <midPrice>0.2</midPrice>
+    <highPrice>5.14</highPrice>
+    <marketPrice>0.14</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P17" cardId="C12">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>0.22</lowPrice>
+    <midPrice>0.49</midPrice>
+    <highPrice>4.99</highPrice>
+    <marketPrice>0.43</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P18" cardId="C13">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>1</lowPrice>
+    <midPrice>1.71</midPrice>
+    <highPrice>9.99</highPrice>
+    <marketPrice>1.66</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P19" cardId="C13">
+    <date>2026-10-26</date>
+    <variant>Normal</variant>
+    <lowPrice>0.01</lowPrice>
+    <midPrice>0.41</midPrice>
+    <highPrice>5.34</highPrice>
+    <marketPrice>0.34</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P20" cardId="C14">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>11.14</lowPrice>
+    <midPrice>15.23</midPrice>
+    <highPrice>51</highPrice>
+    <marketPrice>12.64</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P21" cardId="C15">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>0.1</lowPrice>
+    <midPrice>0.34</midPrice>
+    <highPrice>9</highPrice>
+    <marketPrice>0.33</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P22" cardId="C16">
+    <date>2026-10-26</date>
+    <variant>Normal</variant>
+    <lowPrice>0.01</lowPrice>
+    <midPrice>0.2</midPrice>
+    <highPrice>5.08</highPrice>
+    <marketPrice>0.08</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P23" cardId="C16">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>0.44</lowPrice>
+    <midPrice>0.86</midPrice>
+    <highPrice>4.99</highPrice>
+    <marketPrice>0.82</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P24" cardId="C17">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>0.2</lowPrice>
+    <midPrice>1.37</midPrice>
+    <highPrice>19.99</highPrice>
+    <marketPrice>1.28</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P25" cardId="C18">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>0.72</lowPrice>
+    <midPrice>1.3</midPrice>
+    <highPrice>9</highPrice>
+    <marketPrice>1.22</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P26" cardId="C19">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>1.5</lowPrice>
+    <midPrice>2.99</midPrice>
+    <highPrice>12</highPrice>
+    <marketPrice>2.27</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P27" cardId="C20">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>29.92</lowPrice>
+    <midPrice>35</midPrice>
+    <highPrice>200</highPrice>
+    <marketPrice>29.92</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P28" cardId="C21">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>5.85</lowPrice>
+    <midPrice>7.71</midPrice>
+    <highPrice>15</highPrice>
+    <marketPrice>7.37</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P29" cardId="C21">
+    <date>2026-10-26</date>
+    <variant>Normal</variant>
+    <lowPrice>2.67</lowPrice>
+    <midPrice>4.49</midPrice>
+    <highPrice>504.87</highPrice>
+    <marketPrice>3.36</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P30" cardId="C22">
+    <date>2026-10-26</date>
+    <variant>Normal</variant>
+    <lowPrice>0.02</lowPrice>
+    <midPrice>0.25</midPrice>
+    <highPrice>6.88</highPrice>
+    <marketPrice>0.1</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P31" cardId="C22">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>6.43</lowPrice>
+    <midPrice>6.43</midPrice>
+    <highPrice>6.43</highPrice>
+    <marketPrice>5.59</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P32" cardId="C23">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>15.14</lowPrice>
+    <midPrice>20.99</midPrice>
+    <highPrice>515.07</highPrice>
+    <marketPrice>17.69</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P33" cardId="C24">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>2.99</lowPrice>
+    <midPrice>6.1</midPrice>
+    <highPrice>511.53</highPrice>
+    <marketPrice>4.88</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P34" cardId="C25">
+    <date>2026-10-26</date>
+    <variant>Normal</variant>
+    <lowPrice>0.49</lowPrice>
+    <midPrice>1.02</midPrice>
+    <highPrice>8</highPrice>
+    <marketPrice>0.7</marketPrice>
+    <directLowPrice/>
+  </price>
+  <price id="P35" cardId="C25">
+    <date>2026-10-26</date>
+    <variant>Foil</variant>
+    <lowPrice>1.6</lowPrice>
+    <midPrice>3.84</midPrice>
+    <highPrice>20</highPrice>
+    <marketPrice>2.9</marketPrice>
+    <directLowPrice/>
+  </price>
+</prices>

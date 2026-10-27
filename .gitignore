@@ -1,0 +1,22 @@
+# Java
+build/
+*.class
+
+# Node
+node_modules/
+dist/
+
+# Local data and secrets
+.env
+*.sqlite
+*.db
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+
+#claude
+CLAUDE.md
