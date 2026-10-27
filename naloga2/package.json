@@ -1,0 +1,19 @@
+{
+  "name": "riftvault-news-scraper",
+  "version": "0.1.0",
+  "description": "RiftVault – Naloga 2: Puppeteer parser for official Riftbound news (playriftbound.com)",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "scrape": "node src/index.js",
+    "scrape:quick": "node src/index.js --limit 12 --no-details"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Lenart Bersnak",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.43.1"
+  }
+}
