@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="sl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RiftVault – cene iger</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect x='3' y='1' width='10' height='14' rx='2' fill='%232a78d6'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="page-head">
+    <div class="wrap">
+      <p class="eyebrow">RiftVault · Naloga 3</p>
+      <h1>Koliko so se podražile igre?</h1>
+      <p class="lede">
+        Indeksi cen življenjskih potrebščin za kategorijo <strong>druge igre in igrače</strong>
+        (kamor spadajo tudi kartne igre, kot je Riftbound) v primerjavi s splošno inflacijo v Sloveniji.
+        Podatki se ob vsakem nalaganju strani preverijo in po potrebi prenesejo neposredno s SURS v formatu PC-Axis.
+      </p>
+      <p id="status" class="status" role="status">Nalagam podatke s SURS …</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="panel filters" aria-label="Filtri">
+      <div class="filter-group">
+        <span class="filter-label">Kategorije</span>
+        <div id="cats" class="chips"></div>
+      </div>
+      <div class="filter-row">
+        <label>Od leta <select id="from"></select></label>
+        <label>Do leta <select id="to"></select></label>
+        <label>Bazno leto (= 100) <select id="base"></select></label>
+        <div class="segmented" role="group" aria-label="Prikaz">
+          <button type="button" data-freq="month" aria-pressed="true">Mesečno</button>
+          <button type="button" data-freq="year" aria-pressed="false">Letno povprečje</button>
+        </div>
+      </div>
+      <p id="warnings" class="warnings" hidden></p>
+    </section>
+
+    <section id="kpis" class="kpis" aria-label="Ključne številke"></section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Indeks cen <span id="index-sub" class="sub"></span></h2>
+        <div id="legend-index" class="legend"></div>
+      </div>
+      <div class="chart-box tall"><canvas id="chart-index" aria-label="Črtni graf indeksa cen"></canvas></div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Letna inflacija <span class="sub">sprememba letnega povprečja, %</span></h2>
+        <div id="legend-yoy" class="legend"></div>
+      </div>
+      <div class="chart-box"><canvas id="chart-yoy" aria-label="Stolpčni graf letne inflacije"></canvas></div>
+      <p class="hint">Leto, označeno z *, še ni zaključeno, zato se primerja z istimi meseci prejšnjega leta.</p>
+    </section>
+
+    <div class="two-col">
+      <section class="panel calc">
+        <h2>Kalkulator: koliko bi to stalo danes?</h2>
+        <p class="hint">Preračun po povprečnih cenah v kategoriji, ne po dejanski ceni posameznega izdelka.</p>
+        <div class="calc-row">
+          <label>Cena <input id="calc-price" type="number" min="0" step="0.01" value="4.99"> €</label>
+          <label>v letu <select id="calc-year"></select></label>
+        </div>
+        <div id="calc-out" class="calc-out"></div>
+      </section>
+
+      <section class="panel">
+        <h2>O podatkih</h2>
+        <dl id="about" class="about"></dl>
+      </section>
+    </div>
+
+    <section class="panel">
+      <details>
+        <summary>Tabela letnih vrednosti</summary>
+        <div class="table-scroll"><table id="table"></table></div>
+      </details>
+    </section>
+  </main>
+
+  <footer class="wrap foot">
+    Vir: Statistični urad RS, <a id="src-link" href="https://pxweb.stat.si" target="_blank" rel="noopener">SiStat</a>,
+    tabela 0400608S (ECOICOP ver. 2). Obdelava: RiftVault.
+  </footer>
+</body>
+</html>

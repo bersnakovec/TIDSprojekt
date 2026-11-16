@@ -1,0 +1,19 @@
+{
+  "name": "riftvault-cpi",
+  "version": "0.1.0",
+  "description": "RiftVault – Naloga 3: visualisation of SURS consumer price indices (PC-Axis) for games and toys",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Lenart Bersnak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0",
+    "px": "^0.1.2"
+  }
+}
