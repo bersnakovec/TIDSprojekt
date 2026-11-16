@@ -1,0 +1,21 @@
+{
+  "name": "riftvault-deck-advisor",
+  "version": "0.1.0",
+  "description": "RiftVault – Naloga 4: LLM deck advisor for Riftbound (Claude API, structured JSON output)",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "mock": "node src/server.js --mock"
+  },
+  "engines": {
+    "node": ">=20.12"
+  },
+  "author": "Lenart Bersnak",
+  "license": "ISC",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.9.0",
+    "express": "^5.3.0",
+    "zod": "^4.6.7"
+  }
+}

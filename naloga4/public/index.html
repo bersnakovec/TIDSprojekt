@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="sl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RiftVault – deck svetovalec</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect x='3' y='1' width='10' height='14' rx='2' fill='%232a78d6'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="page-head wrap">
+    <p class="eyebrow">RiftVault · Naloga 4</p>
+    <h1>Deck svetovalec</h1>
+    <p class="lede">Izberi turnirski deck ali prilepi svojega, povej, kako igraš in koliko želiš porabiti.
+      Aplikacija iz tvojih izbir, besedil kart (Riftcodex) in cen (TCGplayer) sestavi prompt za LLM
+      in prikaže njegov strukturiran odgovor v JSON.</p>
+    <p id="model-badge" class="badge"></p>
+  </header>
+
+  <main class="wrap layout">
+    <form id="form" class="panel form" novalidate>
+      <fieldset>
+        <legend>Deck</legend>
+        <div class="segmented" role="group" aria-label="Vir decka">
+          <button type="button" data-source="list" aria-pressed="true">Turnirski deck</button>
+          <button type="button" data-source="text" aria-pressed="false">Prilepi seznam</button>
+        </div>
+        <div id="source-list">
+          <label class="field">Deck
+            <select id="deck" name="deckId"></select>
+          </label>
+          <div id="deck-preview" class="deck-preview" aria-live="polite"></div>
+        </div>
+        <div id="source-text" hidden>
+          <label class="field">Seznam kart (ena karta v vrstici, npr. »3 Hidden Blade«)
+            <textarea id="deck-text" name="deckText" rows="9" placeholder="Legend:&#10;1 Renata Glasc, Chem-Baroness&#10;Main deck:&#10;3 Baited Hook&#10;3 Hidden Blade&#10;…"></textarea>
+          </label>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Igralec</legend>
+        <div class="field">Izkušnje
+          <div class="radio-cards" id="experience">
+            <label><input type="radio" name="experience" value="beginner"><span>Začetnik</span></label>
+            <label><input type="radio" name="experience" value="intermediate" checked><span>Povprečen</span></label>
+            <label><input type="radio" name="experience" value="competitive"><span>Tekmovalec</span></label>
+          </div>
+        </div>
+        <label class="field">Kje bom igral
+          <select name="goal">
+            <option value="casual">Doma s prijatelji</option>
+            <option value="local" selected>Lokalni turnir</option>
+            <option value="regional">Regionalni / državni turnir</option>
+          </select>
+        </label>
+        <div class="field">Želje
+          <div class="chips" id="styles">
+            <label><input type="checkbox" name="styles" value="aggressive"><span>Bolj agresivno</span></label>
+            <label><input type="checkbox" name="styles" value="control"><span>Več kontrole</span></label>
+            <label><input type="checkbox" name="styles" value="consistent"><span>Manj naključja</span></label>
+            <label><input type="checkbox" name="styles" value="simple"><span>Preprostejše igranje</span></label>
+            <label><input type="checkbox" name="styles" value="cheap"><span>Čim cenejše</span></label>
+          </div>
+        </div>
+        <label class="field">Opomba (neobvezno)
+          <textarea name="notes" rows="2" maxlength="300" placeholder="npr. pogosto igram proti agresivnim deckom"></textarea>
+        </label>
+      </fieldset>
+
+      <fieldset>
+        <legend>Predlogi</legend>
+        <label class="field">Proračun za nove karte: <output id="budget-out">20 €</output>
+          <input type="range" id="budget" name="budgetEur" min="0" max="100" step="5" value="20">
+        </label>
+        <div class="row">
+          <label class="field">Število zamenjav
+            <select name="swapCount">
+              <option>1</option><option>2</option><option selected>3</option><option>4</option><option>5</option>
+            </select>
+          </label>
+          <label class="field">Jezik odgovora
+            <select name="language">
+              <option value="sl" selected>Slovenščina</option>
+              <option value="en">English</option>
+            </select>
+          </label>
+        </div>
+      </fieldset>
+
+      <button type="submit" id="submit" class="primary">Analiziraj deck</button>
+      <p id="form-error" class="error" role="alert" hidden></p>
+    </form>
+
+    <section id="result" class="result" aria-live="polite">
+      <div class="panel empty">
+        <h2>Kako deluje</h2>
+        <ol>
+          <li>Iz izbir v obrazcu in podatkov o decku strežnik sestavi prompt.</li>
+          <li>Claude API vrne odgovor, omejen na JSON shemo (structured outputs).</li>
+          <li>JSON se deserializira v razred <code>DeckAdvice</code>, ki preveri imena kart, domene, kopije, cene in proračun.</li>
+        </ol>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap foot">
+    Podatki: Riftcodex (karte), TCGCSV / TCGplayer (cene), Frankfurter (USD → EUR), turnirski decki iz naloge 2.
+  </footer>
+</body>
+</html>
